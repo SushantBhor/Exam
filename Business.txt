@@ -1,0 +1,17 @@
+Entities:
+
+
+Organization (Portal Parent Company): It will manage all the working of the portal
+HR Managers: Will update all the information about the job openings
+Hiring Managers: Will decide the flow of hiring process
+Candidates: Will apply for job vaccancies and submit their applications.
+
+
+Business Operations:
+
+Job Posting : HR managers will post the details of the jobs about the qulification criteria and all.
+Application Submission: Candidates will search for the best jobs for them and will submit the application.
+Screening: HR managers will shortlist the candidates.
+Interview: Hiring managers will conduct interviews.
+Feedback: Candidates will be asked to fill the feedback.
+Result: Result will be shown to everyone on their personal profiles and if selected further proces will continue with the company.

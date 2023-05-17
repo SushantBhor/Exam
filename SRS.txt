@@ -1,0 +1,45 @@
+PURPOSE:-
+Purpose of Employee Recruitment System is to provide a platform to job seekers where they can seamlessly  and connect them with the geniune job providers, which will be benificial for both job providers and job seekers.
+
+Where job providers can share real time updates about the recruitment process and jobs.
+
+Scope: The scope for this project is to reduce time consuming formal method of job application and provide a single platform for everyone where anyone can find the job.
+
+Definations:
+1) JS - Job Seekers
+2) JP - Job Providers
+3) UI - User Interface
+
+
+Business Entities:
+1) Job Seekers
+2)Job Providers
+
+Buiness Operations:
+1) Registration for JS and JP
+2) Login
+3) Searching for job details (for JS)  / Providing job details (for JP)
+4) Applying for job (JS) 
+5) Application Tracking System (JS will get updates) / (JP will give real time updates)
+6) Payment (Platform Charges)
+7) Cancelling the Offer
+
+Functional Recquirements:
+1) JS and JP will register on the job portal using basic details.
+2) JP will further go for second verification to avoid fraud JP.
+3) JS will be able to find the the suitable jobs.
+4) JP should be able to any JS profile.
+5) The JS should get notification for job updates and changes in job status or hiring process status.
+6) When hiring is going on all meetings must happen on the same platform.
+7) Traffic must be managed well.
+
+
+
+NON FUNCTIONAL REQUIREMENTS:-
+1) Site should be available 24*7*365.
+2) There portal should secured and data privacy should be maintained.
+3) Users must feel the UI is smooth and easy.
+4) Site should work properly when multiple users are accessing it at the same time.
+5) Refund process must be fast and smooth. 
+
+
